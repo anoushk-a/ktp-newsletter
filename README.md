@@ -1,6 +1,8 @@
 # KTP - AG Email Template
 
 @KTP AG class -- html template for newsletter emails.
+- I stole it from [here](!https://github.com/leemunroe/responsive-html-email-template)
+and repurposed it with KTP colors
 
 We'll get those points back hopefully. From what I heard though brothers get tired of templates so we may need some more creativity along the way.
 
